@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vaibhav Ankolekar
 - 👀 I’m interested in learning new technologies
-- 📫 How to reach me vaibhavank18@gamil.com
+- 📫 You can reach me at vaibhavank18@gamil.com
 
 <!---
 RagnosVA/RagnosVA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
