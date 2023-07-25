@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Vaibhav Ankolekar  
-- 👀 I’m interested in learning new technologies  
-- 📬  You can reach me at vaibhavank18@gmail.com
+- 👀 I’m interested in learning new technologies
 <br />
 
 ### Skills
